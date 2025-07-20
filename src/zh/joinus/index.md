@@ -12,7 +12,7 @@ sidebar_position: 1
 
 ## 开始之前
 
-要制作一个 RSS 订阅，您需要结合使用 Git、HTML、JavaScript、jQuery 和 Node.js。
+要制作一个 RSS 订阅，您需要结合使用 Git、HTML、JavaScript、TypeScripe、jQuery 和 Node.js。
 
 如果您对它们不是很了解，但想要学习它们，以下是一些好的资源：
 
